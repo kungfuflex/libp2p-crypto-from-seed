@@ -1,0 +1,16 @@
+{
+  "name": "libp2p-crypto-from-seed",
+  "version": "0.1.0",
+  "description": "libp2p-crypto instance from seed point",
+  "main": "crypto-from-seed.js",
+  "repository": "https://github.com/kungfuflex/libp2p-crypto-from-seed",
+  "author": "flex",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "cryptico": "^1.0.2",
+    "ethers": "^5.6.0",
+    "libp2p-crypto": "^0.21.2"
+  }
+}
